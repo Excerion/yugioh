@@ -14,30 +14,29 @@ Tagline: better than Jazz format.
 - Play Link monsters on the classic field! Without a limit on how many Extra Deck monsters you have.
 - No Xyzs because stacking cards on top of each other is lame.
 
-# How Links work here
-
-The game is played in classic mode, and there is no limit on how many monsters from the Extra deck you have. The arrows on Link monsters are ignored. There are no Link monsters in the format where the arrows matter, and there never will be.
-
-# Further details
+### Basic info
 
 - Only the cards listed below are part of the format.
 - The game generally uses old rulings. That means the first player draws a sixth card, you can declare priority on Ignition Effects, and the UDE rulings are in effect for cards of that era.
 
-# Changelog for v.05
+### How Links work here
+
+The game is played in classic mode, and there is no limit on how many monsters from the Extra deck you have. The arrows on Link monsters are ignored. There are no Link monsters in the format where the arrows matter, and there never will be.
+
+### Changelog for v.05
 
 - Added a Further details section
 - Removed duplicate cards from the card pool and reorganized them a little.
 - Added the following cards:
-    Rocket Warrior
-    Drillroid
-    Elemental HERO Bubbleman
-    Fusion Recovery
-    Cold Wave
+	- Rocket Warrior
+	- Drillroid
+	- Elemental HERO Bubbleman
+	- Fusion Recovery
+	- Cold Wave
 
+## Card pool
 
-
-
-# Limited cards
+### Limited cards
 
 Breaker the Magical Warrior
 Card Trooper
@@ -50,15 +49,13 @@ Call of the Haunted
 Mirror Force
 Torrential Tribute
 
-# Semi-limited cards
+### Semi-limited cards
 
 Solemn Judgment
 
+### (Unlimited) generic cards
 
-
-# Unlimited generic cards
-
-## Effect Monsters
+#### Effect Monsters
 
 Thunder King Rai-Oh
 Airknight Parshath
@@ -162,7 +159,7 @@ Rocket Warrior
 Drillroid
 Elemental HERO Bubbleman
 
-## Fusion monsters
+#### Fusion monsters
 
 Mudragon of the Swamp
 Elder Entity Norden
@@ -176,7 +173,7 @@ Reaper on the Nightmare
 Chimeratech Overdragon
 Chimeratech Fortress Dragon
 
-## Synchro monsters
+#### Synchro monsters
 
 Formula Synchron
 Ally of Justice Catastor
@@ -197,7 +194,7 @@ Colossal Fighter
 Stardust Spark Dragon
 Scrap Dragon
 
-## Quickdraw engine
+#### Quickdraw engine
 
 Junk Destroyer
 Drill Warrior
@@ -205,14 +202,14 @@ Chevalier de Fleur
 Road Warrior
 Junk Archer
 
-## Link monsters
+#### Link monsters
 
 Bellcat Fighter
 Clara & Rushka, the Ventrilloduo
 LANphorhynchus
 Traffic Ghost
 
-## Spells
+#### Spells
 
 Enemy Controller
 Mystical Space Typhoon
@@ -252,7 +249,7 @@ Machine Duplication
 One for One
 Monster Gate
 
-## Traps
+#### Traps
 
 Graverobber
 Spell Shield Type-8
@@ -290,9 +287,9 @@ Cold Wave
 
 
 
-# Unlimited Archetype cards
+### (Unlimited) archetype cards
 
-## Blackwings
+#### Blackwings
 
 Blackwing - Bora the Spear
 Blackwing - Sirocco the Dawn
@@ -305,7 +302,7 @@ Swallow’s Nest
 Delta Crow - Anti Reverse
 Icarus Attack
 
-## Element cards
+#### Element cards
 
 Element Doom
 Element Dragon
