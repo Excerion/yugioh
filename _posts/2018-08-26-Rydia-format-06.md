@@ -33,9 +33,9 @@ The game is played in classic mode, and there is no limit on how many monsters f
 
 * Heavy Storm
 
-- Call of the Haunted
-- Mirror Force
-- Torrential Tribute
+* Call of the Haunted
+* Mirror Force
+* Torrential Tribute
 
 ### Semi-limited cards
 - Solemn Judgment
