@@ -230,6 +230,7 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Machine Duplication
 - One for One
 - Monster Gate
+* Deck Lockdown
 
 #### Traps
 - Graverobber
