@@ -35,9 +35,7 @@ The game is played in classic mode, and there is no limit on how many monsters f
 	- Cold Wave
 
 ## Card pool
-
 ### Limited cards
-
 - Breaker the Magical Warrior
 - Card Trooper
 - Gorz the Emissary of Darkness
@@ -50,13 +48,10 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Torrential Tribute
 
 ### Semi-limited cards
-
 - Solemn Judgment
 
 ### (Unlimited) generic cards
-
 #### Effect Monsters
-
 - Thunder King Rai-Oh
 - Airknight Parshath
 - Thunder Dragon
