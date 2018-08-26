@@ -15,16 +15,13 @@ Tagline: better than Jazz format.
 - Play Link monsters on the classic field! Without a limit on how many Extra Deck monsters you have.
 
 ### Basic info
-
 - Only the cards listed below are part of the format.
 - The game generally uses old rulings. That means the first player draws a sixth card, you can declare priority on Ignition Effects, and the UDE rulings are in effect for cards of that era.
 
 ### How Links work here
-
 The game is played in classic mode, and there is no limit on how many monsters from the Extra deck you have. The arrows on Link monsters are ignored. There are no Link monsters in the format where the arrows matter, and there never will be.
 
 ### Changelog for v.05
-
 - Added a Further details section
 - Removed duplicate cards from the card pool and reorganized them a little.
 - Added the following cards:
@@ -155,7 +152,6 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Elemental HERO Bubbleman
  
 #### Fusion monsters
- 
 - Mudragon of the Swamp
 - Elder Entity Norden
 - Millennium-Eyes Restrict
@@ -169,7 +165,6 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Chimeratech Fortress Dragon
 
 #### Synchro monsters
-
 - Formula Synchron
 - Ally of Justice Catastor
 - HTS Psychemuth
@@ -190,7 +185,6 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Scrap Dragon
 
 #### Quickdraw engine
-
 - Junk Destroyer
 - Drill Warrior
 - Chevalier de Fleur
@@ -198,14 +192,12 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Junk Archer
 
 #### Link monsters
-
 - Bellcat Fighter
 - Clara & Rushka, the Ventrilloduo
 - LANphorhynchus
 - Traffic Ghost
 
 #### Spells
-
 - Enemy Controller
 - Mystical Space Typhoon
 - Forbidden Chalice
@@ -245,7 +237,6 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Monster Gate
 
 #### Traps
-
 - Graverobber
 - Spell Shield Type-8
 - Dark Bribe
@@ -281,9 +272,7 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Cold Wave
  
 ### (Unlimited) archetype cards
-
 #### Blackwings
-
 - Blackwing - Bora the Spear
 - Blackwing - Sirocco the Dawn
 - Blackwing - Gale the Whirlwind
@@ -297,7 +286,7 @@ The game is played in classic mode, and there is no limit on how many monsters f
 
 #### Element cards
 
-- Element Doom
+- lement Doom
 - Element Dragon
 - Element Magician
 - Element Saurus
