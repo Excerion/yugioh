@@ -286,7 +286,7 @@ The game is played in classic mode, and there is no limit on how many monsters f
 
 #### Element cards
 
-- lement Doom
+- Element Doom
 - Element Dragon
 - Element Magician
 - Element Saurus
