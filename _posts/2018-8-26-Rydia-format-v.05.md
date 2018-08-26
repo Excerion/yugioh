@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Rydia format v.05
+published: true
 ---
 
 Welcome to Rydia format!
@@ -12,7 +13,6 @@ Tagline: better than Jazz format.
 - Lots of cards that require skill and improvisation
 - Fusions and Synchros
 - Play Link monsters on the classic field! Without a limit on how many Extra Deck monsters you have.
-- No Xyzs because stacking cards on top of each other is lame.
 
 ### Basic info
 
