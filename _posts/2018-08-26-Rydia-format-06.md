@@ -1,8 +1,6 @@
 ---
 published: false
 ---
-## A New Post
-
 Welcome to Rydia format!
 
 Tagline: better than Jazz format.
