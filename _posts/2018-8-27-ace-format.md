@@ -5,15 +5,13 @@ published: true
 ---
 
 ## Card pool
-
 ### Limited cards
 * Heavy Storm
 
 ### Semi-limited cards
 * Mirror Force
 
-### Unlimited cards
-
+### (Unlimited) generic cards
 #### Effect Monsters
 * Toy Magician
 * Big Shield Gardna
@@ -65,12 +63,6 @@ published: true
 * Needle Burrower
 * Dark Magician of Chaos
 
-#### Fusion Monsters
-
-#### Xyz Monsters
-
-#### Link Monsters
-
 #### Spell cards
 * Enemy Controller
 * Mind Control
@@ -114,20 +106,4 @@ published: true
 
 * Swamp Mirrorer
 * DNA Transplant
-
-## Considerations
-* Breaker the Magical Warrior
-* Segmental Dragon
-* Kozmo DOG Fighter
-* Timeater
-* Ancient Gear Beast
-* Airknight Parshath
-* Mefisto the Dark General
-* Don Zaloog
-* Mataza the Zapper
-
-* Big Bang Shot
-
-* Forced Back
-* Drastic Drop Off
 
