@@ -1,26 +1,8 @@
 ---
 layout: post
-title: Another format I once made.
+title: Ace format
 published: true
 ---
-
-## Abstract
-
-The idea is to start with the most skill-promoting cards I can find, and have those as benchmarks, so nothing objectively stronger than those is allowed, and people are forced to play those cards.
-
-What makes a card skill-promoting? It must encourage decision-making, so things that can be used in multiple ways are skill-promoting, like Enemy Controller. Also, the aspect of improvisation is important. Therefore there should be few recruiters and cards that let you take control of the opponent’s stuff is encouraged.
-
-## Ideas
-
-### Benchmark rewards
-* Toy Magician bait -- the problem is that if it's the strongest LV4, you will never want to set it anyway.
-* Ohka Tribute Summon -- Yes.
-* Sand Moth bait -- Yes.
-* Slate Warrior flip -- Yes.
-
-### Skill-involving plays
-* Baiting Ohka, then using Autonomous Action Unit on it.
-* Widespread Ruin vs. Forbidden Lance. It also modifies the ATK, so Ruin will just destroy a different monster.
 
 ## Card pool
 
