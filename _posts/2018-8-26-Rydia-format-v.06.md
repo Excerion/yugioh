@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Rydia format v.06
+published: true
 ---
 Welcome to Rydia format!
 
@@ -18,7 +20,7 @@ Tagline: better than Jazz format.
 ### How Links work here
 The game is played in classic mode, and there is no limit on how many monsters from the Extra deck you have. The arrows on Link monsters are ignored. There are no Link monsters in the format where the arrows matter, and there never will be.
 
-### Changelog for v.05
+### Changelog for v.06
 - Added a Further details section
 - Removed duplicate cards from the card pool and reorganized them a little.
 * Added the following cards:
