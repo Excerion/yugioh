@@ -78,7 +78,6 @@ published: true
 * Mystical Space Typhoon
 * Hammer Shot
 * Shrink
-* Creature Swap
 
 #### Trap cards
 * Widespread Ruin
