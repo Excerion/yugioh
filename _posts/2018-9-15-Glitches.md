@@ -6,6 +6,8 @@ published: true
 
 This game is so bug-ridden, I'm starting to think that there are even more bugs than Pokemon. So I've decided to catch 'em all. I'm collecting all the glitches I find here. PM me your glitches if you want to see them showcased.
 
+Communicating through a portal:
+
 ![Communicating through a portal](https://i.imgur.com/ux1hmuB.png)
 
 [Card disappearance](https://imgur.com/BMjKLYG.png)
