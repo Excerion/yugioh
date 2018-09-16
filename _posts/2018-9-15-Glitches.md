@@ -40,7 +40,7 @@ This game is so bug-ridden, I'm starting to think that there are even more bugs 
 
 ## Opening double MF in goat
 
-![Opening double MF in goat](https://imgur.com/a62RhSo)
+![Opening double MF in goat](https://imgur.com/a62RhSo.png)
 
 ## 5x Droll & Lock Bird in hand
 
