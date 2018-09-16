@@ -28,7 +28,7 @@ This game is so bug-ridden, I'm starting to think that there are even more bugs 
 
 ## Cards with different backs in hand
 
-![Cards with different backs in hand](https://imgur.com/4QVyjxF)
+![Cards with different backs in hand](https://imgur.com/4QVyjxF.png)
 
 ## Deck list in title screen
 
