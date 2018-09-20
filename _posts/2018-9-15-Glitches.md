@@ -48,7 +48,7 @@ This game is so bug-ridden, I'm starting to think that there are even more bugs 
 
 ## The same game appearing twice in the list
 
-No screenshot of this one. Send me one if you see it, please.
+Screenshot of this got lost. I'm leaving this note here for documentation purposes.
 
 ## Opponent's hand appearing in the deck editor
 
@@ -57,3 +57,7 @@ No screenshot of this one. Send me one if you see it, please.
 ## Attacking a Trap Card
 
 ![Attacking a Trap Card](https://i.imgur.com/DeSqJXM.png)
+
+## Text becoming bold and underlined
+
+![](https://i.imgur.com/h1tqxXX.png)
