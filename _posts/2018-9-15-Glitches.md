@@ -61,3 +61,7 @@ Screenshot of this got lost. I'm leaving this note here for documentation purpos
 ## Text becoming bold and underlined
 
 ![](https://i.imgur.com/h1tqxXX.png)
+
+## Mirrorred game vs. ghost user
+
+![](https://i.imgur.com/N2NPWZC.png)
