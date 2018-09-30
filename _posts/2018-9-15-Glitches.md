@@ -65,3 +65,18 @@ Screenshot of this got lost. I'm leaving this note here for documentation purpos
 ## Mirrorred game vs. ghost user
 
 ![](https://i.imgur.com/N2NPWZC.png)
+
+I got this by entering a challenge, clicking on a name from the user list, and then clicking "View profile" right at the moment they accept my challenge. It seems to give you a preview of the admin panel. There are buttons for viewing the main chat history, making either player lose the game, and cancelling the call. None of the buttons worked, though.
+
+## The bottom line
+
+There once was a man named Xteven
+
+
+Who had an idea and went a-conceivin'
+
+He made a promising fork
+
+Of Dueling Network
+
+But the glitches and lag left us grievin'.
