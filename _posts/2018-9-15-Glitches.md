@@ -48,7 +48,7 @@ This game is so bug-ridden, I'm starting to think that there are even more bugs 
 
 ## The same game appearing twice in the list
 
-Screenshot of this got lost. I'm leaving this note here for documentation purposes.
+![](https://i.imgur.com/9NVh92m.png)
 
 ## Opponent's hand appearing in the deck editor
 
