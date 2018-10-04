@@ -7,4 +7,4 @@ In case you didn't know, Duelingbook is also an educational tool that teaches, a
 
 ![](https://i.imgur.com/vWaBqeM.png)
 
-The more you know!
+Thank you, Xteven. Where would we be without your help?
