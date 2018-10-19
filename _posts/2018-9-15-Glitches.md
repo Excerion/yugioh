@@ -42,6 +42,14 @@ This game is so bug-ridden, I'm starting to think that there are even more bugs 
 
 ![Opening double MF in goat](https://imgur.com/a62RhSo.png)
 
+## Opening double Duo
+
+![](https://i.imgur.com/v5kXzLW.png)
+
+## Cards not corresponding with their images in the log
+
+![](https://i.imgur.com/YxzTVW8.png)
+
 ## 5x Droll & Lock Bird in hand
 
 ![5x Droll & Lock Bird in hand](https://i.imgur.com/zeRG8z3.png)
