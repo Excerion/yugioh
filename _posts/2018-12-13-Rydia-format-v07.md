@@ -7,11 +7,13 @@ Welcome to Rydia format!
 
 Tagline: better than Jazz format.
 
+### Principles
 - Focused on non-linear decks
 - Few Archetypes
-- Lots of cards that require skill and improvisation
-- Fusions and Synchros
-- Play Link monsters on the classic field! Without a limit on how many Extra Deck monsters you have.
+- A focus on cards that require skill and improvisation (like Neo-Spacian Dark Panther)
+- Few cards that would overshadow those skill-promoting cards
+- No floodgates or other cards where the entire game is decided by whether or not the opponent can get rid of it.
+- Continuous Spell and Traps are promoted as follows: Heavy Storm is replace by Dark Squall
 
 ### Basic info
 - Only the cards listed below are part of the format.
@@ -21,7 +23,7 @@ Tagline: better than Jazz format.
 In addition to normal summoning and setting monsters, they can also be normal summoned in face-up defense position. This is to give more strategic opportunities, when you need an effect but also want the monster to be in defense position.
 
 ### How Links work here
-The game is played in classic mode, and there is no limit on how many monsters from the Extra deck you have. The arrows on Link monsters are ignored. There are no Link monsters in the format where the arrows matter, and there never will be.
+The game is played in classic mode, and there is no limit on how many monsters from the Extra deck you have. The arrows on Link monsters are ignored. There are no Link monsters in the format where the arrows matter, and there never will be. Links aren't very big here, they mostly allow you to turn Scapegoat into a small beater or two.
 
 ### Changelog for v.06
 - Added a custom card: Dark Squall
@@ -32,6 +34,9 @@ The game is played in classic mode, and there is no limit on how many monsters f
     * Rescue Cat
     * Destiny Hero - Diamond Dude
     * KA-2 Des Scissors
+    * Heat Wave
+    * Pot of Duality
+    * Monster Gate
 
 ## Card pool
 ### Limited cards
@@ -208,6 +213,7 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Traffic Ghost
 
 #### Spells
+- Pot of Duality
 - Enemy Controller
 - Mystical Space Typhoon
 - Forbidden Chalice
@@ -218,6 +224,7 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Autonomous Action Unit
 - Double Spell
 - Reasoning
+- Monster Gate
 - Overload Fusion
 - Different Dimension Capsule
 - D.D.R. - Different Dimension Reincarnation
@@ -244,7 +251,6 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Inferno Reckless Summon
 - Machine Duplication
 - One for One
-- Monster Gate
 * Deck Lockdown
 
 #### Traps
@@ -281,6 +287,7 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Psychic Shockwave
 - Fusion Recovery
 - Cold Wave
+- Heat Wave
 - Vanity's Emptiness
  
 ### (Unlimited) archetype cards
