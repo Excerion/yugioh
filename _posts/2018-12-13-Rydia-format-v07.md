@@ -21,8 +21,7 @@ Tagline: better than Jazz format.
 The game is played in classic mode, and there is no limit on how many monsters from the Extra deck you have. The arrows on Link monsters are ignored. There are no Link monsters in the format where the arrows matter, and there never will be.
 
 ### Changelog for v.06
-- Added a Further details section
-- Removed duplicate cards from the card pool and reorganized them a little.
+- Added a custom card: Dark Squall
 * Added the following cards:
 	* Vanity's Emptiness
     * Black Luster Soldier - Envoy of the Beginning
@@ -34,13 +33,15 @@ The game is played in classic mode, and there is no limit on how many monsters f
 * Gorz the Emissary of Darkness
 * Tribe-Infecting Virus
 
-* Heavy Storm
-
 * Call of the Haunted
 * Mirror Force
 * Torrential Tribute
 
 ### Semi-limited cards
+- Black Luster Soldier - Envoy of the Beginning
+
+* Dark Squall
+
 - Solemn Judgment
 
 ### (Unlimited) generic cards
@@ -63,10 +64,8 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Sacred Crane
 - Blade Knight
 - Blindly Loyal Goblin
-- Ancient Gear Beast
 - Needle Burrower
 - Raging Flame Sprite
-- Swift Gaia the Fierce Knight
 - The Agent of Wisdom - Mercury
 - Asura Priest
 - D.D. Warrior Lady
@@ -126,20 +125,15 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Unibird
 - Winged Sage Falcos
 - Trifortressops
-- Timeater
-- Kozmo DOG Fighter
-- Blowback Dragon
 - Delg the Dark Monarch
-- Gravekeeper’s Shaman
 - Kycoo the Ghost Destroyer
 - Magic Hand
-- Mutant Mindmaster
-- Dragon Ice
 - Marauding Captain
 - Rocket Warrior
 - Drillroid
 - Elemental HERO Bubbleman
 
+- Ancient Gear Beast
 - Skull Archfiend of Lightning
 - Zaborg the Thunder Monarch
 - Thestalos the Firestorm Monarch
@@ -147,7 +141,13 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Caius the Wicked Monarch
 - Airknight Parshath
 - Thunder Dragon
-- Black Luster Soldier - Envoy of the Beginning
+- Mutant Mindmaster
+- Gravekeeper’s Shaman
+- Blowback Dragon
+- Dragon Ice
+- Timeater
+- Kozmo DOG Fighter
+- Swift Gaia the Fierce Knight
  
 #### Fusion monsters
 - Mudragon of the Swamp
