@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rydia format v.06
+title: Rydia format v.07
 published: true
 ---
 Welcome to Rydia format!
@@ -25,6 +25,7 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Removed duplicate cards from the card pool and reorganized them a little.
 * Added the following cards:
 	* Vanity's Emptiness
+    * Black Luster Soldier - Envoy of the Beginning
 
 ## Card pool
 ### Limited cards
@@ -45,8 +46,6 @@ The game is played in classic mode, and there is no limit on how many monsters f
 ### (Unlimited) generic cards
 #### Effect Monsters
 - Thunder King Rai-Oh
-- Airknight Parshath
-- Thunder Dragon
 - Thunder Sea Horse
 - Pahunder
 - Mahunder
@@ -90,11 +89,6 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Victory Viper XX03
 - Falchionß
 - Battle Fader
-- Skull Archfiend of Lightning
-- Zaborg the Thunder Monarch
-- Thestalos the Firestorm Monarch
-- Granmarg the Rock Monarch
-- Caius the Wicked Monarch
 - Krebons
 - Reborn Tengu
 - Destiny Hero - Malicious
@@ -145,6 +139,15 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Rocket Warrior
 - Drillroid
 - Elemental HERO Bubbleman
+
+- Skull Archfiend of Lightning
+- Zaborg the Thunder Monarch
+- Thestalos the Firestorm Monarch
+- Granmarg the Rock Monarch
+- Caius the Wicked Monarch
+- Airknight Parshath
+- Thunder Dragon
+- Black Luster Soldier - Envoy of the Beginning
  
 #### Fusion monsters
 - Mudragon of the Swamp
