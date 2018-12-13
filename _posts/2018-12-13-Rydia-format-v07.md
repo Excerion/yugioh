@@ -31,6 +31,7 @@ The game is played in classic mode, and there is no limit on how many monsters f
     * Masked Sorcerer
     * Rescue Cat
     * Destiny Hero - Diamond Dude
+    * KA-2 Des Scissors
 
 ## Card pool
 ### Limited cards
@@ -67,7 +68,7 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Sacred Crane
 - Blade Knight
 - Blindly Loyal Goblin
-- Needle Burrower
+- KA-2 Des Scissors
 - Raging Flame Sprite
 - The Agent of Wisdom - Mercury
 - Asura Priest
@@ -140,6 +141,7 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Thunder Dragon
 - Ancient Gear Beast
 - Skull Archfiend of Lightning
+- Needle Burrower
 - Zaborg the Thunder Monarch
 - Thestalos the Firestorm Monarch
 - Granmarg the Rock Monarch
