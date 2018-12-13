@@ -15,7 +15,10 @@ Tagline: better than Jazz format.
 
 ### Basic info
 - Only the cards listed below are part of the format.
-- The game generally uses old rulings. That means the first player draws a sixth card, you can declare priority on Ignition Effects, and the UDE rulings are in effect for cards of that era.
+- The game generally uses old rulings. That means the first player draws a sixth card, you can declare priority on Ignition Effects, and the UDE rulings are in effect for cards of that era. Also, if cards have received errata later on, their original text is used, or their May 2005 text in case it came out before that.
+
+### Extra rule: normal summoning in face-up Defense position
+In addition to normal summoning and setting monsters, they can also be normal summoned in face-up defense position. This is to give more strategic opportunities, when you need an effect but also want the monster to be in defense position.
 
 ### How Links work here
 The game is played in classic mode, and there is no limit on how many monsters from the Extra deck you have. The arrows on Link monsters are ignored. There are no Link monsters in the format where the arrows matter, and there never will be.
