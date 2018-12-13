@@ -26,7 +26,8 @@ In addition to normal summoning and setting monsters, they can also be normal su
 The game is played in classic mode, and there is no limit on how many monsters from the Extra deck you have. The arrows on Link monsters are ignored. There are no Link monsters in the format where the arrows matter, and there never will be. Links aren't very big here, they mostly allow you to turn Scapegoat into a small beater or two.
 
 ### Changelog for v.06
-- Added a custom card: Dark Squall
+* Added a custom card: Dark Squall
+* Organized the monsters by level group
 * Added the following cards:
 	* Vanity's Emptiness
     * Black Luster Soldier - Envoy of the Beginning
