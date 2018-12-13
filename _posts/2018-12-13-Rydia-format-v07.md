@@ -25,6 +25,9 @@ The game is played in classic mode, and there is no limit on how many monsters f
 * Added the following cards:
 	* Vanity's Emptiness
     * Black Luster Soldier - Envoy of the Beginning
+    * Masked Sorcerer
+    * Rescue Cat
+    * Destiny Hero - Diamond Dude
 
 ## Card pool
 ### Limited cards
@@ -47,20 +50,17 @@ The game is played in classic mode, and there is no limit on how many monsters f
 ### (Unlimited) generic cards
 #### Effect Monsters
 - Thunder King Rai-Oh
+- Doomcaliber Knight
 - Thunder Sea Horse
 - Pahunder
 - Mahunder
 - Denko Sekka
 - Lightning Rod Lord
-- Dark Magician of Chaos
 - Slate Warrior
-- Beast King Barbaros
 - Big Shield Gardna
 - Fossil Dyna Pachycephalo
+- Rescue Cat
 - Neo-Spacian Dark Panther
-- Doomcaliber Knight
-- Light and Darkness Dragon
-- Destiny Hero - Plasma
 - Sacred Crane
 - Blade Knight
 - Blindly Loyal Goblin
@@ -76,8 +76,6 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Spirit Reaper
 - Jowls of Dark Demise
 - Freed the Brave Wanderer
-- Rocket Arrow Express
-- Tragoedia
 - Flash Assailant
 - Mist Valley Falcon
 - Exarion Universe
@@ -90,13 +88,11 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Battle Fader
 - Krebons
 - Reborn Tengu
-- Destiny Hero - Malicious
 - Level Eater
 - Glow-up Bulb
 - Spore
 - Unknown Synchron
 - Twin-Headed Behemoth
-- Cyber Dragon
 - Dandylion
 - Hero Kid
 - Quickdraw Synchron
@@ -124,30 +120,41 @@ The game is played in classic mode, and there is no limit on how many monsters f
 - Cyber Valley
 - Unibird
 - Winged Sage Falcos
-- Trifortressops
-- Delg the Dark Monarch
 - Kycoo the Ghost Destroyer
 - Magic Hand
 - Marauding Captain
 - Rocket Warrior
 - Drillroid
 - Elemental HERO Bubbleman
+- Masked Sorcerer
+- Destiny Hero - Diamond Dude
 
+- Cyber Dragon
+- Beast King Barbaros
+- Dragon Ice
+- Trifortressops
+- Destiny Hero - Malicious
+- Thunder Dragon
 - Ancient Gear Beast
 - Skull Archfiend of Lightning
 - Zaborg the Thunder Monarch
 - Thestalos the Firestorm Monarch
 - Granmarg the Rock Monarch
 - Caius the Wicked Monarch
+- Delg the Dark Monarch
 - Airknight Parshath
-- Thunder Dragon
 - Mutant Mindmaster
 - Gravekeeper’s Shaman
 - Blowback Dragon
-- Dragon Ice
 - Timeater
-- Kozmo DOG Fighter
+
+- Tragoedia
 - Swift Gaia the Fierce Knight
+- Rocket Arrow Express
+- Dark Magician of Chaos
+- Light and Darkness Dragon
+- Destiny Hero - Plasma
+- Kozmo DOG Fighter
  
 #### Fusion monsters
 - Mudragon of the Swamp
