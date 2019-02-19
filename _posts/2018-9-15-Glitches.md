@@ -76,10 +76,14 @@ This game is so bug-ridden, I'm starting to think that there are even more bugs 
 
 I got this by entering a challenge, clicking on a name from the user list, and then clicking "View profile" right at the moment they accept my challenge. It seems to give you a preview of the admin panel. There are buttons for viewing the main chat history, making either player lose the game, and cancelling the call. None of the buttons worked, though.
 
-## The bottom line
+## Hand overlay after the duel is over
+
+![](https://i.imgur.com/IC0GwxE.png)
+
+
+# The bottom line
 
 There once was a man named Xteven
-
 
 Who had an idea and went a-conceivin'
 
