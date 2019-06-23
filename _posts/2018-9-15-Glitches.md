@@ -16,11 +16,11 @@ This game is so bug-ridden, I'm starting to think that there are even more bugs 
 
 ## RotA showing up as MF
 
-![RotA showing up as MF](https://i.imgur.com/xIYTNmN.png)
+This is here for documentation purposes, but you can't tell this from a screenshot so there's little point in showing one. The point is: sometimes a card shows up as a different one, even in the logs.
 
-## A spectators sleeves showing up as mine
+## A spectator's sleeves showing up as mine
 
-![A spectators sleeves showing up as mine](https://image.prntscr.com/image/8uULLvJzRXaie6es7IqY6Q.png)
+Again for documentation purposes. Unfortunately, the image got set to 403. Please send me a screenshot of this if you encounter it.
 
 ## Heavy Storm in the Extra Deck
 
