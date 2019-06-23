@@ -38,13 +38,17 @@ Again for documentation purposes. Unfortunately, the image got set to 403. Pleas
 
 ![Liking a post 10 times](https://i.imgur.com/RWCPEg2.png)
 
-## Opening double MF in goat
+## Opening with two copies of a limited card in Goat
+
+Mirror Force:
 
 ![Opening double MF in goat](https://imgur.com/a62RhSo.png)
 
-## Opening double Duo
+Delinquent Duo:
 
 ![](https://i.imgur.com/v5kXzLW.png)
+
+(Of course, I cannot prove to you that these weren't unlimited games, you'll have to take my word for it.)
 
 ## Cards not corresponding with their images in the log
 
@@ -58,7 +62,9 @@ Again for documentation purposes. Unfortunately, the image got set to 403. Pleas
 
 ![](https://i.imgur.com/9NVh92m.png)
 
-## Opponent's hand appearing in the deck editor
+## Hand overlay after the duel is over
+
+![](https://i.imgur.com/IC0GwxE.png)
 
 ![](https://i.imgur.com/IldIaEU.png)
 
@@ -75,10 +81,6 @@ Again for documentation purposes. Unfortunately, the image got set to 403. Pleas
 ![](https://i.imgur.com/N2NPWZC.png)
 
 I got this by entering a challenge, clicking on a name from the user list, and then clicking "View profile" right at the moment they accept my challenge. It seems to give you a preview of the admin panel. There are buttons for viewing the main chat history, making either player lose the game, and cancelling the call. None of the buttons worked, though.
-
-## Hand overlay after the duel is over
-
-![](https://i.imgur.com/IC0GwxE.png)
 
 ## Sending a card from the GY to the GY
 
