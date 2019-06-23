@@ -80,15 +80,15 @@ I got this by entering a challenge, clicking on a name from the user list, and t
 
 ![](https://i.imgur.com/IC0GwxE.png)
 
-## Black cards
-
-![](https://i.imgur.com/LhWFYuN.png)
-
 ## Sending a card from the GY to the GY
 
 ![](https://i.imgur.com/cOuQlWa.png)
 
 When this happens, you hear the sound of a card being sent elsewhere, but everything is still in place. So you'll be really paranoid about what they moved. Really confusing.
+
+## Black cards
+
+![](https://i.imgur.com/LhWFYuN.png)
 
 # The bottom line
 
