@@ -92,6 +92,16 @@ When this happens, you hear the sound of a card being sent elsewhere, but everyt
 
 ![](https://i.imgur.com/LhWFYuN.png)
 
+## Messed up hand
+
+![](https://i.imgur.com/nrUajqP.png)
+
+![](https://i.imgur.com/fjS5fwU.png)
+
+## Stuck at rock-paper-scissors
+
+![](https://i.imgur.com/uhews7S.png)
+
 # The bottom line
 
 There once was a man named Xteven
