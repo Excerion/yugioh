@@ -102,6 +102,10 @@ When this happens, you hear the sound of a card being sent elsewhere, but everyt
 
 ![](https://i.imgur.com/uhews7S.png)
 
+## Card gets set beneath the S/T zone area
+
+![](https://i.imgur.com/n6mpaut.png)
+
 # The bottom line
 
 There once was a man named Xteven
