@@ -20,7 +20,7 @@ On the other hand, it's absolutely okay if someone:
 
 That's not a precise definition, but you get the picture. Only those people should be on the list. And while I didn't make the list myself, I know KL1993 and trust his judgment. Without further ado, here's a copy:
 
-I'm tired of nooby/rude/unsportive player so i'm gonna make here a little list of this kind of person just for reminding myself i should avoid them. If someone go on my profil also, it can't hurt to know who avoid. 
+> I'm tired of nooby/rude/unsportive player so i'm gonna make here a little list of this kind of person just for reminding myself i should avoid them. If someone go on my profil also, it can't hurt to know who avoid. 
 
 Antbug (think it's possible to play charity with 2 cards left in the deck)
 
