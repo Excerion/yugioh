@@ -106,6 +106,14 @@ When this happens, you hear the sound of a card being sent elsewhere, but everyt
 
 ![](https://i.imgur.com/n6mpaut.png)
 
+## Asynchronous duels
+
+From my side:
+![](https://i.imgur.com/hvOM1Pi.png)
+
+From their side:
+![](https://i.imgur.com/jX1cEtj.png)
+
 # The bottom line
 
 There once was a man named Xteven
