@@ -116,12 +116,12 @@ From their side:
 
 # The bottom line
 
-There once was a man named Xteven
+*There once was a man named Xteven*
 
-Who had an idea and went a-conceivin'
+*Who had an idea and went a-conceivin'*
 
-He made a promising fork
+*He made a promising fork*
 
-Of Dueling Network
+*Of Dueling Network*
 
-But the glitches and lag left us grievin'.
+*But the glitches and lag left us grievin'.*
