@@ -120,6 +120,12 @@ From their side:
 
 ![](https://i.imgur.com/mGVrIUT.png)
 
+## Huge-ass menus
+
+![](https://i.imgur.com/3n2qYDg.png)
+
+When you get this, the menu disappears as soon as you try to select something. It also seems to stay even if you start another duel with another deck.
+
 # The bottom line
 
 *There once was a man named Xteven*
