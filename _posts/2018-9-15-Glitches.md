@@ -124,7 +124,11 @@ From their side:
 
 ![](https://i.imgur.com/3n2qYDg.png)
 
-When you get this, the menu disappears as soon as you try to select something. It also seems to stay even if you start another duel with another deck.
+When you get this, the menu disappears as soon as you try to select something. The glitch also seems to stay even if you start another duel with another deck.
+
+## Sample message as soon as the game starts
+
+![](https://i.imgur.com/r3OHlOY.png)
 
 # The bottom line
 
