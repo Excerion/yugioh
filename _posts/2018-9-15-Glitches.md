@@ -130,6 +130,10 @@ When you get this, the menu disappears as soon as you try to select something. T
 
 ![](https://i.imgur.com/r3OHlOY.png)
 
+## Messed up login screen
+
+![](https://i.imgur.com/DLx6uST.png)
+
 # The bottom line
 
 *There once was a man named Xteven*
