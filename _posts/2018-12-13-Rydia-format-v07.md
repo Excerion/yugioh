@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rydia format v.07
-published: false
+published: true
 ---
 Welcome to Rydia format!
 
