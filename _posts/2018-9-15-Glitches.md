@@ -134,6 +134,10 @@ When you get this, the menu disappears as soon as you try to select something. T
 
 ![](https://i.imgur.com/DLx6uST.png)
 
+## Weird tokens
+
+![](https://i.imgur.com/71BQskJ.png)
+
 # The bottom line
 
 *There once was a man named Xteven*
