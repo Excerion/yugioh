@@ -138,6 +138,16 @@ When you get this, the menu disappears as soon as you try to select something. T
 
 ![](https://i.imgur.com/71BQskJ.png)
 
+## Duel note doesn't appear for other players
+
+Look at my game in the following screenshot. It includes the note "Yugi Kaiba PM me".
+
+![](https://i.imgur.com/QFp7bvz.png)
+
+But for others it doesn't.
+
+![](https://i.imgur.com/rdnsGZc.png)
+
 # The bottom line
 
 *There once was a man named Xteven*
