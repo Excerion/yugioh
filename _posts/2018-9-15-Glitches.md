@@ -86,7 +86,7 @@ I got this by entering a challenge, clicking on a name from the user list, and t
 
 ![](https://i.imgur.com/cOuQlWa.png)
 
-When this happens, you hear the sound of a card being sent elsewhere, but everything is still in place. So you'll be really paranoid about what they moved. Really confusing.
+Look at the log on the left. When this happens, you hear the sound of a card being sent elsewhere, but everything is still in place. So you'll be really paranoid about what they moved. Really confusing.
 
 ## Black cards
 
@@ -147,6 +147,14 @@ Look at my game in the following screenshot. It includes the note "Yugi Kaiba PM
 But for others it doesn't.
 
 ![](https://i.imgur.com/rdnsGZc.png)
+
+## Card hovering over the phase buttons
+
+![](https://i.imgur.com/PoXSwLW.jpg)
+
+![](https://i.imgur.com/6021EeZ.jpg)
+
+My opponent set a monster, and it appeared like this for me (but not for themselves). When their turn started, it would hover over the next phase button, cycling through all of them.
 
 # The bottom line
 
