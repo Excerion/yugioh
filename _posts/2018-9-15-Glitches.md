@@ -156,6 +156,10 @@ But for others it doesn't.
 
 My opponent set a monster, and it appeared like this for me (but not for themselves). When their turn started, it would hover over the next phase button, cycling through all of them.
 
+## Messed up main menu
+
+![](https://files.catbox.moe/gsef9r.png)
+
 # The bottom line
 
 *There once was a man named Xteven*
