@@ -166,7 +166,7 @@ I ended up with someone else's deck and profile in a goat game. These aren't eve
 
 ![](https://files.catbox.moe/ychzyu.png)
 
-[Here's ther replay.](https://www.duelingbook.com/replay?id=4576-42143780)
+[Here's the replay.](https://www.duelingbook.com/replay?id=4576-42143780)
 
 # The bottom line
 
