@@ -160,6 +160,14 @@ My opponent set a monster, and it appeared like this for me (but not for themsel
 
 ![](https://files.catbox.moe/gsef9r.png)
 
+## Profile switch in a duel
+
+I ended up with someone else's deck and profile in a goat game. These aren't even Goat format cards.
+
+![](https://files.catbox.moe/ychzyu.png)
+
+[Here's ther replay.](https://www.duelingbook.com/replay?id=4576-42143780)
+
 # The bottom line
 
 *There once was a man named Xteven*
