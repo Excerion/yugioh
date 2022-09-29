@@ -168,6 +168,10 @@ I ended up with someone else's deck and profile in a goat game. These aren't eve
 
 [Here's the replay.](https://www.duelingbook.com/replay?id=4576-42143780)
 
+## "Done siding" message covers my life points
+
+![](https://i.imgur.com/eu1Eamu.png)
+
 # The bottom line
 
 *There once was a man named Xteven*
