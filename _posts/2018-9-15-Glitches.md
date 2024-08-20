@@ -62,6 +62,10 @@ Delinquent Duo:
 
 ![](https://i.imgur.com/9NVh92m.png)
 
+## The same username appearing twice in the list
+
+![](../images/doublenames.jpg)
+
 ## Hand overlay after the duel is over
 
 ![](https://i.imgur.com/IC0GwxE.png)
