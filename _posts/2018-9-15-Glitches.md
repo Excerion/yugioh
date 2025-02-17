@@ -180,7 +180,7 @@ I ended up with someone else's deck and profile in a goat game. These aren't eve
 
 Courtesy of Shen_Yue
 
-![](https://i.imgur.com/QAUOVXu.png)
+![](../images/undefined.png)
 
 # The bottom line
 
