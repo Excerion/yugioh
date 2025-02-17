@@ -176,6 +176,12 @@ I ended up with someone else's deck and profile in a goat game. These aren't eve
 
 ![](https://i.imgur.com/eu1Eamu.png)
 
+## Users appearing as undefined/undefined
+
+Courtesy of Shen_Yue
+
+![](https://i.imgur.com/QAUOVXu.png)
+
 # The bottom line
 
 *There once was a man named Xteven*
